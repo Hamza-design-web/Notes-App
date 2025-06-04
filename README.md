@@ -17,3 +17,7 @@ A minimal, no-fuss Notes App that lets you create, edit, and delete your notes â
 - **CSS
 - **JavaScript 
 
+## ðŸ“¦ How to Run It
+
+1. Use The [The link](https://hamza-design-web.github.io/Notes-App) That I Host
+   
